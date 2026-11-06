@@ -1,0 +1,35 @@
+{
+  "RT_GROUP_ICON": {
+    "APP": { "0000": "icon.ico" }
+  },
+  "RT_MANIFEST": {
+    "#1": {
+      "0409": {
+        "identity": { "name": "ArmPipe.Diag", "version": "1.0.0.0" },
+        "description": "ArmPipe-Diag",
+        "minimum-os": "win7",
+        "execution-level": "as invoker",
+        "dpi-awareness": "system",
+        "use-common-controls-v6": false
+      }
+    }
+  },
+  "RT_VERSION": {
+    "#1": {
+      "0000": {
+        "fixed": { "file_version": "1.0.0.0", "product_version": "1.0.0.0" },
+        "info": {
+          "0419": {
+            "CompanyName": "ArmPipe",
+            "FileDescription": "ArmPipe-Diag — проверка связи ПК с ПЛК и камерами",
+            "FileVersion": "1.0.0",
+            "InternalName": "ArmPipe-Diag",
+            "OriginalFilename": "ArmPipe-Diag.exe",
+            "ProductName": "ArmPipe-Diag",
+            "ProductVersion": "1.0.0"
+          }
+        }
+      }
+    }
+  }
+}
